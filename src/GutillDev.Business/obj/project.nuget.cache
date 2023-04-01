@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1om0nzkon5hpXVRD8LDTf8RM2r5eXZ4140CXVhQw2ULnJD7SQ+Ji/QWbUuNhv3Uv7F5egIib1rohrMJt6VCz2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillDev.Business\\GutillDev.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josué\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

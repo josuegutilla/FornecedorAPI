@@ -1,0 +1,17 @@
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\GutillDev.Data.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\GutillDev.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\GutillDev.Data.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\GutillDev.Data.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\GutillDev.Data.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\bin\Debug\net7.0\GutillDev.Data.deps.json
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\bin\Debug\net7.0\GutillDev.Data.runtimeconfig.json
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\bin\Debug\net7.0\GutillDev.Data.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\bin\Debug\net7.0\GutillDev.Data.pdb
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\bin\Debug\net7.0\GutillDev.Business.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\bin\Debug\net7.0\GutillDev.Business.pdb
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\GutillDev.Data.csproj.CopyComplete
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\GutillDev.Data.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\refint\GutillDev.Data.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\GutillDev.Data.pdb
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\GutillDev.Data.genruntimeconfig.cache
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Data\obj\Debug\net7.0\ref\GutillDev.Data.dll

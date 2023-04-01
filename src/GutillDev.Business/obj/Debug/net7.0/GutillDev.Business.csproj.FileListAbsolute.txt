@@ -1,0 +1,12 @@
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\obj\Debug\net7.0\GutillDev.Business.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\obj\Debug\net7.0\GutillDev.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\obj\Debug\net7.0\GutillDev.Business.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\obj\Debug\net7.0\GutillDev.Business.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\obj\Debug\net7.0\GutillDev.Business.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\bin\Debug\net7.0\GutillDev.Business.deps.json
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\bin\Debug\net7.0\GutillDev.Business.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\bin\Debug\net7.0\GutillDev.Business.pdb
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\obj\Debug\net7.0\GutillDev.Business.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\obj\Debug\net7.0\refint\GutillDev.Business.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\obj\Debug\net7.0\GutillDev.Business.pdb
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillDev.Business\obj\Debug\net7.0\ref\GutillDev.Business.dll
