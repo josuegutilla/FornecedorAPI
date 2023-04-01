@@ -1,3 +1,4 @@
+using GutillaDev.Api.Configuration;
 using GutillDev.Data.Context;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,6 +14,10 @@ builder.Services.AddDbContext<MeuDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 });
+
+builder.Services.AddAutoMapper(typeof(Program));
+
+builder.Services.ResolveDependencies();
 
 var app = builder.Build();
 
