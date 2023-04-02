@@ -36,7 +36,7 @@ namespace GutillaDev.Api.Controllers
         [HttpGet("{id:guid}")]
         public async Task<ActionResult<FornecedorViewModel>> ObterPorId(Guid id)
         {
-            var fornecedor = ObterFornecedorProdutosEndereco(id); //método la em baixo
+            var fornecedor = await ObterFornecedorProdutosEndereco(id); //método la em baixo
 
             if (fornecedor == null) return NotFound();
 
@@ -46,7 +46,6 @@ namespace GutillaDev.Api.Controllers
         [HttpPost]
         public async Task<ActionResult<FornecedorViewModel>> AdicionarFornecedor(FornecedorViewModel fornecedorViewmodel)
         {
-
             if (!ModelState.IsValid) return BadRequest();
 
             var fornecedor = _mapper.Map<Fornecedor>(fornecedorViewmodel);

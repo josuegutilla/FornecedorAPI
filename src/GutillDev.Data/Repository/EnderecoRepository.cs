@@ -1,4 +1,5 @@
-﻿using GutillDev.Business.Models;
+﻿using GutillDev.Business.Intefaces;
+using GutillDev.Business.Models;
 using GutillDev.Data.Context;
 using Microsoft.EntityFrameworkCore;
 
