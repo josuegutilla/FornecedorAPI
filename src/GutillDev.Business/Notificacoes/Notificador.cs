@@ -4,7 +4,7 @@ namespace GutillDev.Business.Notificacoes
 {
     public class Notificador : INotificador
     {
-        private List<Notificacao> _notificacoes;
+        private List<Notificacao> _notificacoes; //lista de notificação de erros
 
         public Notificador()
         {
