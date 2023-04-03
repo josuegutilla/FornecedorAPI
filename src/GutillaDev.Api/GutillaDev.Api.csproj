@@ -27,4 +27,8 @@
     <ProjectReference Include="..\GutillDev.Data\GutillDev.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\imagens\" />
+  </ItemGroup>
+
 </Project>

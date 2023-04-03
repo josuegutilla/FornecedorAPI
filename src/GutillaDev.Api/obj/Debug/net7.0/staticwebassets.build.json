@@ -1,11 +1,105 @@
 {
   "Version": 1,
-  "Hash": "LUjzSe9hy4Fegeljdjv7AG17HxpkZQE02xAUNv3H+kY=",
+  "Hash": "6JyVb7B3pvyE4Avoe2EAOqgtG7HlXCHcle6z7Tw7RcQ=",
   "Source": "GutillaDev.Api",
   "BasePath": "_content/GutillaDev.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "GutillaDev.Api\\wwwroot",
+      "Source": "GutillaDev.Api",
+      "ContentRoot": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\",
+      "BasePath": "_content/GutillaDev.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\0b32d455-e15e-48ff-9712-beeadfcaa1b7_clearcode.png",
+      "SourceId": "GutillaDev.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\",
+      "BasePath": "_content/GutillaDev.Api",
+      "RelativePath": "imagens/0b32d455-e15e-48ff-9712-beeadfcaa1b7_clearcode.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\0b32d455-e15e-48ff-9712-beeadfcaa1b7_clearcode.png"
+    },
+    {
+      "Identity": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\1e91e6ad-3107-432e-8d9b-bcf59ad03857_clearcode.png",
+      "SourceId": "GutillaDev.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\",
+      "BasePath": "_content/GutillaDev.Api",
+      "RelativePath": "imagens/1e91e6ad-3107-432e-8d9b-bcf59ad03857_clearcode.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\1e91e6ad-3107-432e-8d9b-bcf59ad03857_clearcode.png"
+    },
+    {
+      "Identity": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\2d67ad90-03b1-497b-9c77-5f19a07845c7_clearcode.png",
+      "SourceId": "GutillaDev.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\",
+      "BasePath": "_content/GutillaDev.Api",
+      "RelativePath": "imagens/2d67ad90-03b1-497b-9c77-5f19a07845c7_clearcode.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\2d67ad90-03b1-497b-9c77-5f19a07845c7_clearcode.png"
+    },
+    {
+      "Identity": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\8188f1cf-58a8-4f31-8291-5fa6a8ec04ac_clearCode.png",
+      "SourceId": "GutillaDev.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\",
+      "BasePath": "_content/GutillaDev.Api",
+      "RelativePath": "imagens/8188f1cf-58a8-4f31-8291-5fa6a8ec04ac_clearCode.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\8188f1cf-58a8-4f31-8291-5fa6a8ec04ac_clearCode.png"
+    },
+    {
+      "Identity": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\bd1c8042-4690-47e9-a6ca-34da3cac056f_clearCode.png",
+      "SourceId": "GutillaDev.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\",
+      "BasePath": "_content/GutillaDev.Api",
+      "RelativePath": "imagens/bd1c8042-4690-47e9-a6ca-34da3cac056f_clearCode.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\bd1c8042-4690-47e9-a6ca-34da3cac056f_clearCode.png"
+    }
+  ]
 }

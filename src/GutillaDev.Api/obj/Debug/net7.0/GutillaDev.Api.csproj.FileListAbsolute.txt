@@ -81,3 +81,4 @@ C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\b
 C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\obj\Debug\net7.0\GutillaDev.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\GutillaDev.Api.staticwebassets.runtime.json
