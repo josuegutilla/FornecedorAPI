@@ -1,11 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\0b32d455-e15e-48ff-9712-beeadfcaa1b7_clearcode.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\de3a10dc-b82c-48a8-aab4-9bd1073d48cc_clearcode.png))">
       <SourceType>Package</SourceType>
       <SourceId>GutillaDev.Api</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/GutillaDev.Api</BasePath>
-      <RelativePath>imagens/0b32d455-e15e-48ff-9712-beeadfcaa1b7_clearcode.png</RelativePath>
+      <RelativePath>imagens/de3a10dc-b82c-48a8-aab4-9bd1073d48cc_clearcode.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -14,71 +14,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\0b32d455-e15e-48ff-9712-beeadfcaa1b7_clearcode.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\1e91e6ad-3107-432e-8d9b-bcf59ad03857_clearcode.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>GutillaDev.Api</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/GutillaDev.Api</BasePath>
-      <RelativePath>imagens/1e91e6ad-3107-432e-8d9b-bcf59ad03857_clearcode.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\1e91e6ad-3107-432e-8d9b-bcf59ad03857_clearcode.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\2d67ad90-03b1-497b-9c77-5f19a07845c7_clearcode.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>GutillaDev.Api</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/GutillaDev.Api</BasePath>
-      <RelativePath>imagens/2d67ad90-03b1-497b-9c77-5f19a07845c7_clearcode.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\2d67ad90-03b1-497b-9c77-5f19a07845c7_clearcode.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\8188f1cf-58a8-4f31-8291-5fa6a8ec04ac_clearCode.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>GutillaDev.Api</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/GutillaDev.Api</BasePath>
-      <RelativePath>imagens/8188f1cf-58a8-4f31-8291-5fa6a8ec04ac_clearCode.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\8188f1cf-58a8-4f31-8291-5fa6a8ec04ac_clearCode.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\bd1c8042-4690-47e9-a6ca-34da3cac056f_clearCode.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>GutillaDev.Api</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/GutillaDev.Api</BasePath>
-      <RelativePath>imagens/bd1c8042-4690-47e9-a6ca-34da3cac056f_clearCode.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\bd1c8042-4690-47e9-a6ca-34da3cac056f_clearCode.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\de3a10dc-b82c-48a8-aab4-9bd1073d48cc_clearcode.png))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

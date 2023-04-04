@@ -1,24 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\0b32d455-e15e-48ff-9712-beeadfcaa1b7_clearcode.png",
-      "PackagePath": "staticwebassets\\imagens\\0b32d455-e15e-48ff-9712-beeadfcaa1b7_clearcode.png"
-    },
-    {
-      "Id": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\1e91e6ad-3107-432e-8d9b-bcf59ad03857_clearcode.png",
-      "PackagePath": "staticwebassets\\imagens\\1e91e6ad-3107-432e-8d9b-bcf59ad03857_clearcode.png"
-    },
-    {
-      "Id": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\2d67ad90-03b1-497b-9c77-5f19a07845c7_clearcode.png",
-      "PackagePath": "staticwebassets\\imagens\\2d67ad90-03b1-497b-9c77-5f19a07845c7_clearcode.png"
-    },
-    {
-      "Id": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\8188f1cf-58a8-4f31-8291-5fa6a8ec04ac_clearCode.png",
-      "PackagePath": "staticwebassets\\imagens\\8188f1cf-58a8-4f31-8291-5fa6a8ec04ac_clearCode.png"
-    },
-    {
-      "Id": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\bd1c8042-4690-47e9-a6ca-34da3cac056f_clearCode.png",
-      "PackagePath": "staticwebassets\\imagens\\bd1c8042-4690-47e9-a6ca-34da3cac056f_clearCode.png"
+      "Id": "C:\\Users\\Josué\\OneDrive\\Área de Trabalho\\MinhaApiCompleta\\src\\GutillaDev.Api\\wwwroot\\imagens\\de3a10dc-b82c-48a8-aab4-9bd1073d48cc_clearcode.png",
+      "PackagePath": "staticwebassets\\imagens\\de3a10dc-b82c-48a8-aab4-9bd1073d48cc_clearcode.png"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GutillaDev.Api.Microsoft.AspNetCore.StaticWebAssets.props",
