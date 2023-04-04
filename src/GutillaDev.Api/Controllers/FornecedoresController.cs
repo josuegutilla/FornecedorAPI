@@ -2,13 +2,12 @@
 using GutillaDev.Api.ViewModels;
 using GutillDev.Business.Intefaces;
 using GutillDev.Business.Models;
-using GutillDev.Data.Repository;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Reflection.Metadata.Ecma335;
 
 namespace GutillaDev.Api.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class FornecedoresController : MainController
@@ -30,6 +29,7 @@ namespace GutillaDev.Api.Controllers
             _enderecoRepository = enderecoRepository;
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<FornecedorViewModel>>> ObterTodos()
         {
@@ -38,6 +38,7 @@ namespace GutillaDev.Api.Controllers
             return Ok(fornecedores);
         }
 
+        [AllowAnonymous]
         [HttpGet("{id:guid}")]
         public async Task<ActionResult<FornecedorViewModel>> ObterPorId(Guid id)
         {

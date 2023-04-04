@@ -82,3 +82,9 @@ C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\o
 C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\GutillaDev.Api.staticwebassets.runtime.json
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Josué\OneDrive\Área de Trabalho\MinhaApiCompleta\src\GutillaDev.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
