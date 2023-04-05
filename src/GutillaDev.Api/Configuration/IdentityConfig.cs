@@ -1,4 +1,5 @@
 ﻿using GutillaDev.Api.Data;
+using GutillaDev.Api.Extensions;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -17,6 +18,7 @@ namespace GutillaDev.Api.Configuration
             services.AddDefaultIdentity<IdentityUser>()
                  .AddRoles<IdentityRole>()
                  .AddEntityFrameworkStores<ApplicationDbContext>()
+                 .AddErrorDescriber<IdentityMensagensPortugues>()
                  .AddDefaultTokenProviders();
 
             return services;
