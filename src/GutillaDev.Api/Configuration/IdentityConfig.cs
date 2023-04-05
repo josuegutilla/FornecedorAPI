@@ -12,7 +12,7 @@ namespace GutillaDev.Api.Configuration
              IConfiguration configuration)
         {
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(configuration.GetConnectionString("Defaul")));
+                options.UseSqlServer(configuration.GetConnectionString("Default")));
 
             services.AddDefaultIdentity<IdentityUser>()
                  .AddRoles<IdentityRole>()

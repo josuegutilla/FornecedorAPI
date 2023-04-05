@@ -7,7 +7,6 @@ namespace GutillaDev.Api.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
-            
         }
     }
 }

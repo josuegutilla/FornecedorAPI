@@ -12,6 +12,7 @@
           "GutillDev.Business": "1.0.0",
           "GutillDev.Data": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.4",
+          "Microsoft.AspNetCore.Identity.UI": "7.0.4",
           "Microsoft.AspNetCore.OpenApi": "7.0.4",
           "Microsoft.EntityFrameworkCore": "7.0.4",
           "Microsoft.EntityFrameworkCore.Design": "7.0.4",
@@ -123,6 +124,18 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "assemblyVersion": "7.0.4.0",
+            "fileVersion": "7.0.423.11903"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Identity.UI/7.0.4": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Embedded": "7.0.4",
+          "Microsoft.Extensions.Identity.Stores": "7.0.4"
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Identity.UI.dll": {
             "assemblyVersion": "7.0.4.0",
             "fileVersion": "7.0.423.11903"
           }
@@ -315,6 +328,22 @@
           "lib/net7.0/Microsoft.Extensions.DependencyModel.dll": {
             "assemblyVersion": "7.0.0.0",
             "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Abstractions/7.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "7.0.0"
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Embedded/7.0.4": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.423.11903"
           }
         }
       },
@@ -863,6 +892,13 @@
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/7.0.4",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.7.0.4.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Identity.UI/7.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OYwrFtqXyxmluRKrTsju14fPUvqY3rI8YysUP2kaAGHD0kMkpZyWLrarGoZ8A8r/mVi1V+IwYY8pPTMoGEcAPA==",
+      "path": "microsoft.aspnetcore.identity.ui/7.0.4",
+      "hashPath": "microsoft.aspnetcore.identity.ui.7.0.4.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.OpenApi/7.0.4": {
       "type": "package",
       "serviceable": true,
@@ -995,6 +1031,20 @@
       "sha512": "sha512-oONNYd71J3LzkWc4fUHl3SvMfiQMYUCo/mDHDEu76hYYxdhdrPYv6fvGv9nnKVyhE9P0h20AU8RZB5OOWQcAXg==",
       "path": "microsoft.extensions.dependencymodel/7.0.0",
       "hashPath": "microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Abstractions/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NyawiW9ZT/liQb34k9YqBSNPLuuPkrjMgQZ24Y/xXX1RoiBkLUdPMaQTmxhZ5TYu8ZKZ9qayzil75JX95vGQUg==",
+      "path": "microsoft.extensions.fileproviders.abstractions/7.0.0",
+      "hashPath": "microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Embedded/7.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WFRadIy31Dk4oJzICMz3m++pY8mHst+YLP7GAHgudo4RsFQkOG1aa8kaemBHJ+bjyCS2LWwKkxuv9c53C3F8PA==",
+      "path": "microsoft.extensions.fileproviders.embedded/7.0.4",
+      "hashPath": "microsoft.extensions.fileproviders.embedded.7.0.4.nupkg.sha512"
     },
     "Microsoft.Extensions.Identity.Core/7.0.4": {
       "type": "package",
